@@ -37,7 +37,7 @@ dependencies {
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
 
     // WebRTC
-    implementation 'io.getstream:stream-webrtc-android:1.1.8'
+    implementation 'org.webrtc:google-webrtc:1.0.32006'
 
     // Socket.IO
     implementation('io.socket:socket.io-client:2.1.0') {
