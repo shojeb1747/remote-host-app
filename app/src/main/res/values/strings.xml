@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Remote Control Host</string>
+    <string name="accessibility_service_description">
+        Allows remote control of this device by performing touch gestures and navigation actions.
+    </string>
+</resources>
